@@ -11,8 +11,7 @@ function FormSignup(submitForm) {
   return (
     <div className='form-content-right'>
     <form className='form' onSubmit={handleSubmit}>
-        <h1>Hello Heisenbergers, Get started with us today! Create your account by filling out the information below.
-        </h1>
+        
         <div className='form-inputs'>
             <label htmlFor='username'
             className='form-label'>

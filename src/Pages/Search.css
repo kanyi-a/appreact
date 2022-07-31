@@ -1,0 +1,8 @@
+body {
+    background-image: url( 'https://source.unsplash.com/1600x900/?cinema/blackandwhite');
+    height: 100vh;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }

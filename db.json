@@ -1,6 +1,8 @@
 {
     "characters":[
-    {"name": "Walter White",
+    {
+    "char_id": 1,
+    "name": "Walter White",
     "birthday": "09-07-1958",
     "occupation": [
       "High School Chemistry Teacher",
@@ -10,9 +12,170 @@
     "status": "Presumed dead",
     "nickname": "Heisenberg",
     "portrayed": "Bryan Cranston",
-    "category": "Breaking Bad",
-    "id": 1
-}
-    ]
+    "category": "Breaking Bad"
+    
+},
+{
+  "char_id": 2,
+  "name": "Jesse Pinkman",
+  "birthday": "09-24-1984",
+  "occupation": [
+    "Meth Dealer"
+  ],
+  "img": "https://vignette.wikia.nocookie.net/breakingbad/images/9/95/JesseS5.jpg/revision/latest?cb=20120620012441",
+  "status": "Alive",
+  "nickname": "Cap n' Cook",
+  "portrayed": "Aaron Paul",
+  "category": "Breaking Bad"
+},
+  
+{
+  "char_id": 3,
+  "name": "Skyler White",
+  "birthday": "08-11-1970",
+  "occupation": [
+    "House wife",
+    "Book Keeper",
+    "Car Wash Manager",
+    "Taxi Dispatcher"
+  ],
+  "img": "https://s-i.huffpost.com/gen/1317262/images/o-ANNA-GUNN-facebook.jpg",
+  "status": "Alive",
+  "nickname": "Sky",
+  "portrayed": "Anna Gunn",
+  "category": "Breaking Bad"
+},
+{
+
+"char_id": 4,
+"name": "Gustavo Fring",
+"birthday": "Unknown",
+"occupation": [
+  "Los-Pollos co-Founder",
+  "Philanthropist",
+  "Cartel Leader"
+],
+"img": "https://vignette.wikia.nocookie.net/breakingbad/images/1/1f/BCS_S4_Gustavo_Fring.jpg/revision/latest?cb=20180824195925",
+"status": "Deceased",
+"nickname": "Gus",
+"portrayed": "Giancarlo Esposito",
+"category": "Breaking Bad, Better Call Saul"
+
+
+},
+{
+"char_id": 5,
+"name": "Hector Salamanca",
+"birthday": "Unknown",
+"occupation": [
+  "Former Senior Cartel Leader"
+],
+"img": "https://vignette.wikia.nocookie.net/breakingbad/images/b/b4/Hector_BCS.jpg/revision/latest?cb=20170810091606",
+"status": "Deceased",
+"nickname": "Don Hector",
+"portrayed": "Mark Margolis",
+"category": "Breaking Bad, Better Call Saul"
+
+},
+{
+"char_id": 6,
+"name": "Marie Schrader",
+"birthday": "Unknown",
+"occupation": [
+  "Housewife",
+  "Clepto"
+],
+"img": "https://vignette.wikia.nocookie.net/breakingbad/images/1/10/Season_2_-_Marie.jpg/revision/latest?cb=20120617211645",
+"status": "Alive",
+"nickname": "Marie",
+"portrayed": "Betsy Brandt",
+"category": "Breaking Bad"
+
+},
+{
+"char_id": 7,
+"name": "Mike Ehrmantraut",
+"birthday": "Unknown",
+"occupation": [
+  "Hitman",
+  "Private Investigator",
+  "Ex-Cop"
+],
+"img": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_mike-ehrmantraut-lg.jpg",
+"status": "Deceased",
+"nickname": "Mike",
+"portrayed": "Jonathan Banks",
+"category": "Breaking Bad, Better Call Saul"
+
+},
+{
+"char_id": 8,
+"name": "Saul Goodman",
+"birthday": "Unknown",
+"occupation": [
+  "Lawyer"
+],
+"img": "https://vignette.wikia.nocookie.net/breakingbad/images/1/16/Saul_Goodman.jpg/revision/latest?cb=20120704065846",
+"status": "Alive",
+"nickname": "Jimmy McGill",
+"portrayed": "Bob Odenkirk",
+"category": "Breaking Bad, Better Call Saul"
+
+},
+{
+"char_id": 9,
+"name": "Domingo Molina",
+"birthday": "Unknown",
+"occupation": [
+  "Meth Distributor"
+],
+"img": "https://vignette.wikia.nocookie.net/breakingbad/images/e/e7/Krazy8.png/revision/latest?cb=20130208041554",
+"status": "Deceased",
+"nickname": "Krazy-8",
+"portrayed": "Maximino Arciniega",
+"category": "Breaking Bad"
+
+},
+{
+"char_id": 10,
+"name": "Tuco Salamanca",
+"birthday": "Unknown",
+"occupation": [
+  "Meth Distributor"
+],
+"img": "https://vignette.wikia.nocookie.net/breakingbad/images/a/a7/Tuco_BCS.jpg/revision/latest?cb=20170810082445",
+"status": "Deceased",
+"nickname": "Tuco",
+"portrayed": "Raymond Cruz",
+"category": "Breaking Bad, Better Call Saul"
+},
+{
+"char_id": 11,
+"name": "Marco & Leonel Salamanca",
+"birthday": "Unknown",
+"occupation": [
+  "Cartel Hitman"
+],
+"img": "https://images.amcnetworks.com/amc.com/wp-content/uploads/2015/04/cast_bb_700x1000_the-cousins-lg.jpg",
+"status": "Deceased",
+"nickname": "The Cousins",
+"portrayed": "Luis & Daniel Moncada",
+"category": "Breaking Bad"
+},
+{
+"char_id": 12,
+"name": "Lydia Rodarte-Quayle",
+"birthday": "Unknown",
+"occupation": [
+  "Executive at Madrigal"
+],
+"img": "https://media1.popsugar-assets.com/files/thumbor/wERDST0TUb-iHCSb2r5ZpsvaZLo/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2013/07/17/675/n/1922283/fae2f583f04bb80f_Laura-Fraser-is-back-as-Lydia-Rodarte-Quayle_gallery_primary/i/Laura-Fraser-Lydia-Rodarte-Quayle.jpg",
+"status": "Deceased",
+"nickname": "Lydia",
+"portrayed": "Laura Fraser",
+"category": "Breaking Bad"
 
 }
+  ]
+}
+   

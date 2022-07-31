@@ -15,11 +15,11 @@ function submitForm() {
     <>
     <div className='form-container'>
     <span className='close-btn'> × </span>
-        <div className='form-content-left'>
-          <img src='img/img5.jpg' alt='spaceship' 
-              className='form-img' 
-          />
-        </div>
+        <h1 className='form-content-left'>
+        Hello Heisenbergers,
+       Get started with us today! Create your account by filling out the information below.
+      
+        </h1>
      {!isSubmitted ? 
         <FormSignup submitForm=
     {submitForm} /> : <FormSuccess /> }
