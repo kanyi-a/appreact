@@ -43,7 +43,7 @@ As a user of the website,you will be able to :
  - [Licence](#licence)
  - [Authors Info](#Authors-Info)
  ## Description
- <p>This project is a simple responsive webpage that leverage the TMDB API that is publicly available to show the trending movies and series worldwide</
+ <p>This project is a simple responsive webpage that leverage the json server utilises a db.json file in the application </
  [Go Back to the top](#Breaking-Bad-Movies-Pages)
  ## Features
 As a user of the website,you will be able to :
@@ -60,6 +60,7 @@ As a user of the website,you will be able to :
 * Open the index file from the zipped file with any browser.
  ****
 [Go Back to the top](#Breaking-Bad-Movies-Pages)
+
 ### Live Link
 - Click this link to view the live application 
 ### Technology  Used
