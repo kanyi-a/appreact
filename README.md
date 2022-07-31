@@ -3,7 +3,7 @@
 ## Screenshots
 ![Screenshot from 2022-07-31 13-11-10](https://user-images.githubusercontent.com/106078081/182021485-30ce48f3-066b-458a-adc9-ae681153c274.png)
 
-https://user-images.githubusercontent.com/106078081/182021641-d9151894-0197-4c3f-9a52-de456ad1f9cf.png
+![Screenshot from 2022-07-31 13-11-00](https://user-images.githubusercontent.com/106078081/182021709-e86c7cc5-6df6-4039-a106-83439030341b.png)
 
 Screenshot from 2022-07-31 13-11-10.png
 Screenshot from 2022-07-31 13-11-00.png
