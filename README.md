@@ -1,6 +1,7 @@
 # Breaking Bad Movies Page
 ## By Angela W Kanyi
 ## Screenshots
+![Screenshot from 2022-07-31 13-11-10](https://user-images.githubusercontent.com/106078081/182021485-30ce48f3-066b-458a-adc9-ae681153c274.png)
 
 
 
